@@ -1,0 +1,23 @@
+.bg-header {
+  background-color: #4a55a2;
+}
+
+.bg-active {
+  background-color: #7895cb;
+}
+
+.changed-menu-1 {
+  transform: translate(0, 14px) rotate(-45deg);
+}
+
+.changed-menu-2 {
+  transform: translate(0, -14px) rotate(45deg);
+}
+
+.bg-closed {
+  background-color: #FDE5EC;
+}
+
+.bg-open {
+    background-color: #E48586;
+}
