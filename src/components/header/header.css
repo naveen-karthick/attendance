@@ -3,7 +3,7 @@
 }
 
 .bg-active {
-  background-color: #7895cb;
+  background-color: #7895cb !important;
 }
 
 .changed-menu-1 {
